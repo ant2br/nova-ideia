@@ -14,6 +14,8 @@ function Sobre({ stars }) {
         <Link href="/">
             <a>Home</a>
         </Link>
+
+        <h2>Well é corno!!</h2>
         </div>
     )
 }
